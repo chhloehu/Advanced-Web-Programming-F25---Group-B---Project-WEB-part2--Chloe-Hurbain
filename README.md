@@ -4,15 +4,15 @@ This project is a Node.js + Express backend that serves different sea turtle ite
 ## Project Structure 
 backend/ <br>
 │ server.js <br>
-│ package.json
-│ .gitignore
-│ README.md
+│ package.json <br>
+│ .gitignore <br>
+│ README.md <br>
+│ <br>
+├─ data/ <br>
+│   data.js  ← array of turtle objects <br> 
 │
-├─ data/
-│   data.js  ← array of turtle objects
-│
-└─ frontend/ (optional, personal choice)
-    → used for visual display in the browser
+└─ frontend/ (optional, personal choice)<br> 
+    → used for visual display in the browser<br>
 Note: I personally added the frontend folder to provide a visual representation — this was not required in the original instructions.
 
 ## Running the Project
